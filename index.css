@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url(question-mark-background-1909040_1280.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  font-weight: bold;
+  font-family: "Kalam", cursive;
+}
+.mola {
+  background-color: rgb(255, 255, 255, 0.767);
+  border-radius: 50px;
+  padding: 10px;
+  width: 400px;
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.6);
+}
+.input{
+  font-family: "Kalam", cursive;
+  border-radius: 5px;
+  border: 1px solid #686868;
+  padding: 5px 10px;
+  margin: 10px 0;
+  width: 50%;
+}
+.botom{
+  font-family: "Kalam", cursive;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid #686868;
+  font-weight: 800;
+  padding: 5px 10px;
+  margin: 10px auto;
+  background-color: #e6e6e6;
+}
