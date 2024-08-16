@@ -8,6 +8,11 @@ html {
   background-image: url(jiji.jpg)
 }
 
+body {
+
+  cursor: url('https://img.icons8.com/ios/50/ffffff/bright-moon.png'), auto;
+}
+
 .america{ 
   display: flex; 
   justify-content: space-around;

@@ -9,6 +9,10 @@ html {
   font-weight: bold;
   font-family: "Kalam", cursive;
 }
+body {
+  cursor: url('https://img.icons8.com/ios/50/ffffff/bright-moon.png'), auto;
+}
+
 .mola {
   background-color: rgb(255, 255, 255, 0.767);
   border-radius: 50px;
